@@ -6,6 +6,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+![matlab](https://img.shields.io/badge/MATLAB-orange.svg)
 ![SQL](https://img.shields.io/badge/-SQL-F54A2A?style=flat&logo=MySQL&logoColor=white)
 
 ### Technologies
