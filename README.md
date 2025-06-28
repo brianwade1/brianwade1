@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=300&section=header&text=Brian%20Wade&fontSize=90&fontColor=FFFFFF&animation=fadeIn" alt="Header"/>
-</h1><h2 align="center">
+</h1>.
 
 
 -----
