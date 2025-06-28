@@ -93,9 +93,9 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white)](https://github.com/brianwade1)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-@brianwade-orange?logo=huggingface&logoColor=white)](https://huggingface.co/Brianwade)
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bwade1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@brianwade-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bwade1)
+[![GitHub](https://img.shields.io/badge/GitHub-@brianwade-181717?logo=github&logoColor=white)](https://github.com/brianwade1)
 
 </div>
 
